@@ -151,13 +151,8 @@ llm
 ai-agents
 
 
-This helps your repo **appear in AI searches on GitHub**.
 
----
 
-# 🚀 Extra Tip (Very Important for Recruiters)
-
-After pushing README, add this **top badge** at the top of README:
 
 ```markdown
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
