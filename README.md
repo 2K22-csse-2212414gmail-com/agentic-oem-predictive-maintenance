@@ -119,7 +119,8 @@ Predict failures using sensor telemetry
 
 👨‍💻 Author
 
-Vedant Shukla
+Vedant Shukla,
+RUDRANSH TIWARI
 B.Tech Computer Science
 
 ⭐ Future Improvements
