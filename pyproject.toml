@@ -1,5 +1,5 @@
-[project]
-name = "mas"
+[tool.poetry]
+name = "agentic-oem-predictive-maintenance"
 version = "0.1.0"
 description = "Multi-Agent System"
 requires-python = ">=3.10,<4.0"
